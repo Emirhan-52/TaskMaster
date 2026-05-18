@@ -1,0 +1,2 @@
+# This project uses Python's built-in libraries (tkinter, json, datetime).
+# No external dependencies are required to run TaskMaster.

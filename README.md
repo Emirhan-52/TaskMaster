@@ -1,37 +1,20 @@
-# TaskMaster - Desktop To-Do List Application
+# TaskMaster - To-Do List Application
 
-A lightweight, high-performance desktop application designed for local task management.
+A simple, lightweight desktop to-do list app built with Python and Tkinter.
+
+## Screenshot
+
+![Main Window](images/main_window.png)
 
 ## Features
 
-- ✅ Add, edit, delete tasks
-- ✅ Mark tasks as complete
-- ✅ Search tasks by title/description
-- ✅ Filter by status (Pending/Completed)
-- ✅ Auto-save to JSON file
-- ✅ No internet connection required
-- ✅ No external dependencies
+- Add, edit, delete tasks
+- Mark tasks as complete
+- Search and filter
+- Auto-save to JSON
+- No internet required
 
-## Screenshots
+## How to Run
 
-### Main Window
-![Main Window](images/main_window.png)
-
-### Adding a New Task
-![Add Task](images/add_task.png)
-
-### Mark Task as Complete
-![Complete Task](images/complete_task.png)
-
-### Edit Task Window
-![Edit Window](images/edit_window.png)
-
-### Search and Filter
-![Search Filter](images/search_filter.png)
-
-## Installation
-
-1. Make sure you have Python 3.x installed
-2. Clone the repository:
-   ```bash
-   git clone https://github.com/Emirhan-52/TaskMaster.git
+```bash
+python main.py
